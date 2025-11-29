@@ -1,0 +1,5 @@
+{
+  "name": "Augmented Vertex Block Descent",
+  "description": "A robust, reusable WebGPU boilerplate with hot-reloading shader support, error reporting, and orbit controls.",
+  "requestFramePermissions": []
+}
